@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "it64309010023";
-$password = "64309010023";
+$password = "Ping2013";
 $dbname = "it64309010023";
 
 // Create connection
