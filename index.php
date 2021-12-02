@@ -8,7 +8,7 @@
 <div class="container" style="margin-top:30px">
   <!-- <div class="row"> -->
     <h3>หน้าแรก index.php</h3>
-    <h3>แก้ไขเนื้อหาแล้ว</h3>
+    <h3>แก้ไขเนื้อหา</h3>
 
     
    
